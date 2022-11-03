@@ -8,7 +8,7 @@ PROJECT TITLE: FindRoots
 PURPOSE OF PROJECT: University assignment on data structures using the Interface abstract class
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Miltiadis Ouzounis - https://www.linkedin.com/in/miltiades-ouzounis-697a981b8/
 USER INSTRUCTIONS:
 
 This is an app that is able to find the roots of 4 specific mathematical functions in a restricted domain using the bisection and regula falsi mathematical methods. 
