@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=f\ a\ b\ maxIteration\ tolerance
+comment0.target=double\ bisect(Function,\ double,\ double,\ int,\ double)
+comment1.params=f\ a\ b\ maxIteration\ tolerance
+comment1.target=double\ regulafalsi(Function,\ double,\ double,\ int,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
